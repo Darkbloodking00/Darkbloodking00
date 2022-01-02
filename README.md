@@ -8,6 +8,3 @@
 <strong>Discord:</strong>
 <a href = "https://discord.com/invite/xrVPGvp6Hc">Dark Çeviri Kanadı</a>
 
-<strong>E-Posta:</strong>
-<a href = "mailto:darkiletisim@protonmail.com">darkiletisim@protonmail.com</a>
-
